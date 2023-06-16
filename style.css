@@ -64,7 +64,8 @@ p {
 
 .logo {
     position: relative;
-    top: 25%;
+    top: 10%;
+    bottom: 25%;
     right: 123px;
 
 }
