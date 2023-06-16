@@ -9,4 +9,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="70px" heidth="70px" >
 <br>
 <br>
+<h2>Versão para dekstop:</h2>
+
 <img src="https://github.com/Liomarassis/Easy-Shopping/blob/master/Imagens.img/Capturar.PNG?raw=true" >
+<br>
+<h2>Versão para mobile:</h2>
+<img src="https://github.com/Liomarassis/Easy-Shopping/blob/master/Imagens.img/Capturar2.PNG?raw=true" >
